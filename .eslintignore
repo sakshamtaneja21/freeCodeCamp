@@ -1,2 +1,7 @@
 public/**/*.js
 seed/unpacked/**/*.js
+void main()
+{ int a ,b,c;
+
+
+}
